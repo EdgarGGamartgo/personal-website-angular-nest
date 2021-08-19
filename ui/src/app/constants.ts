@@ -1,0 +1,1 @@
+export const CV_PATH = '/assets/EdgarMartinez_CV_SD_.pdf';
